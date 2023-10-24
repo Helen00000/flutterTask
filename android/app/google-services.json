@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576841111270",
+    "project_id": "dancing-55d23",
+    "storage_bucket": "dancing-55d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576841111270:android:298bca080626c6818a0d27",
+        "android_client_info": {
+          "package_name": "com.example.dancing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXFvd-gJBtlEfrGU-wiqKJpUM89TzcSVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
